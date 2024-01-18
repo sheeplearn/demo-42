@@ -2,8 +2,8 @@
 Hello,
 This is just a project
 for understanding
-how github works.  Their
-main concern is that 
+how github works.  
+Their main concern is that 
 some people will create a
 fork, make edits in their
 code to files that get updated,
